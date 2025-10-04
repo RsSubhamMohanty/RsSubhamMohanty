@@ -1,4 +1,4 @@
-# 👋 Hello, I'm R.S. Subham Mohanty
+# 👋 Hello, I'm R S Subham Mohanty
 
 AI-Focused MCA Student | MLOps Engineer in Training | Scalable ML Systems Builder
 
