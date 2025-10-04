@@ -37,6 +37,32 @@ AI-Focused MCA Student | MLOps Engineer in Training | Scalable ML Systems Builde
 
 ---
 
+## 📌 Projects
+
+### 🔹 DVC End-to-End Water Quality
+
+**About:**  
+Developed a complete, version-controlled MLOps pipeline using **DVC** to train and evaluate a model that predicts water portability from quality metrics.  
+This project demonstrates skills in data versioning, pipeline automation, and reproducible ML workflows.
+
+**Tech Stack:**  
+`Python` • `DVC` • `Scikit-learn` • `Git` • `MLflow`
+
+---
+
+### 🔹 Machine Learning Prediction API with FastAPI
+
+**About:**  
+An end-to-end MLOps demonstration involving training a machine learning model to **classify water potability** and deploying it as a REST API using **FastAPI**.  
+The project showcases model training, API development, and data versioning for production-ready ML systems.
+
+**Tech Stack:**  
+`Python` • `FastAPI` • `Scikit-learn` • `DVC` • `Docker` • `GitHub Actions`
+
+---
+
+
+
 ## 🚀 On My Learning Journey
 
 Currently pursuing a Master’s in Computer Applications (MCA) with a specialization in Artificial Intelligence — now in my second year. My focus areas include:
@@ -51,18 +77,32 @@ Always exploring, always evolving — one project at a time.
 
 ---
 
-## ⚙ MLOps: Collaboration & System Architecture
+## 🎯 Goals & Interests
 
-I specialize in engineering the backbone of machine learning applications, focusing on automation, scalability, and reproducibility. My goal is to bridge the gap between model development and production deployment through robust MLOps practices.
 
-Let’s connect to discuss building the next generation of AI systems.
+Open to **internships**, **collaborations**, and **open-source contributions**  
+Passionate about **AI in production** & **streamlined ML workflows**  
+Curious about building solutions that are **impactful**, **simple**, and **scalable**
 
 ---
 
-## 🎯 Career Goals
+## 🧠 Core Philosophy: Systems Thinking
 
-Seeking opportunities in **MLOps Engineering** and **ML Infrastructure** where I can contribute to:
+- Passionate about understanding how systems interact and evolve  
+- Enjoy building custom automation setups and contributing to open-source infrastructure  
+- Inspired by strategic thinking—whether in tech, design, or gameplay  
+- Approach MLOps with a systems mindset: every ML project is a complete, integrated system  
+- Focus on scalability, cohesion, and long-term sustainability in machine learning workflows
 
-- CI/CD/CT pipelines  
-- Model monitoring strategies  
-- Automated data governance  
+---
+
+## 📊 GitHub Stats
+
+![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RsSubhamMohanty&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RsSubhamMohanty&layout=compact&theme=radical)
+
+
+
+
+ 
