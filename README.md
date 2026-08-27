@@ -166,30 +166,6 @@ Building practical projects that connect these technologies into **end-to-end De
 
 ---
 
-## 📌 DevOps Journey
-
-```text
-Linux
-  ↓
-Git & GitHub
-  ↓
-CI/CD
-  ↓
-GitHub Actions
-  ↓
-Docker
-  ↓
-Kubernetes
-  ↓
-Helm
-  ↓
-Trivy
-  ↓
-AWS
-```
-
----
-
 ## 🌱 What I'm Working Toward
 
 My goal is to become a **strong Junior DevOps / Cloud Engineer** by developing practical experience in:
